@@ -9,12 +9,12 @@ elif 2000<=n<3000:
 	print('paid bill is',n-(20*10)/100)
 elif 3000<=n<5000:
 	print('total bill is',n)
-	print('Discount on billed amount is',(10*n)/100)
-	print('paid bill is',n-(n*10)/100)		
+	print('Discount on billed amount is',(30*n)/100)
+	print('paid bill is',n-(n*30)/100)		
 elif n>5000:
 	print('total bill is',n)
-	print('Discount on billed amount is',(10*n)/100)
-	print('paid bill is',n-(n*10)/100)	
+	print('Discount on billed amount is',(40*n)/100)
+	print('paid bill is',n-(40*10)/100)	
 else:
 	print('you did not purchase enough to get discount' )
 	
@@ -29,3 +29,4 @@ else:
 	discount on billed amount is 100
 	paid bill is 900
 	
+	'''
