@@ -22,7 +22,8 @@ else:
 	output :1
 	850
 	you did not purchase enough to get discount
-	
+	paid bill is 850
+
 	output:2
 	1000
 	total bill is 1000
