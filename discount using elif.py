@@ -17,7 +17,7 @@ elif n>5000:
 	print('paid bill is',n-(40*10)/100)	
 else:
 	print('you did not purchase enough to get discount' )
-	
+	print('paid bill is',n)
 	'''
 	output :1
 	850
